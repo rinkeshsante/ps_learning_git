@@ -1,3 +1,15 @@
+commit ba4e6dba12c47b19f4c8e6dc986324fce446f66f
+Author: Rinkesh Sante <rinkoosante@gmail.com>
+Date:   Tue Jun 21 16:06:06 2022 +0530
+
+    removed info file from RnD branch
+
+commit b0bbcbded2231bf35dc481d101a5787f75f790fc
+Author: Rinkesh Sante <rinkoosante@gmail.com>
+Date:   Tue Jun 21 15:42:18 2022 +0530
+
+    added the gitlog
+
 commit 9d513d40c771058d97d52d668a1c93baa65d9461
 Author: Rinkesh Sante <rinkoosante@gmail.com>
 Date:   Tue Jun 21 15:35:58 2022 +0530
